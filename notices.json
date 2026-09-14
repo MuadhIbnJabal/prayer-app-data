@@ -6,7 +6,7 @@
     "time": "10:10",
     "type": "event",
     "description": "testing format of events in event screen",
-    "image": "https://raw.githubusercontent.com/MuadhIbnJabal/prayer-app-data/main/notices/community-event.jpg",
+    "image": "https://raw.githubusercontent.com/MuadhIbnJabal/prayer-app-data/main/notices/MasjidLogo.png",
     "startDate": "2026-09-14",
     "endDate": "2026-09-15" 
   }
