@@ -1,3 +1,15 @@
 [
+  {
+    "id": "test-event-1",
+    "title": "Testing Events",
+    "date": "14 September 2026",
+    "time": "10:10",
+    "type": "event",
+    "description": "testing format of events in event screen",
+    "image": "",
+    "startDate": "2026-09-14",
+    "endDate": "2026-09-15"
+  }
+  
 
 ]
