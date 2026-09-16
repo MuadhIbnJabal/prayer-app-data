@@ -14,5 +14,11 @@
   "type": "course",
   "category": "sisters",
   "image": "https://raw.githubusercontent.com/MuadhIbnJabal/prayer-app-data/main/notices/sistersstudies.JPG"
-}
+},
+  {
+    "id": "sisters-quran",
+    "type": "course",
+    "category": "sisters",
+    "image": "https://raw.githubusercontent.com/MuadhIbnJabal/prayer-app-data/main/notices/sistersquran.JPG"
+  }
 ]
