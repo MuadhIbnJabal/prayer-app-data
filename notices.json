@@ -1,12 +1,12 @@
 [
   {
-    "id": "shamail",
-    "type": "event",
-    "image": "https://raw.githubusercontent.com/MuadhIbnJabal/prayer-app-data/main/notices/shamail.JPG"
-  },
-  {
     "id": "surah-al-mutaffifin",
     "type": "event",
     "image": "https://raw.githubusercontent.com/MuadhIbnJabal/prayer-app-data/main/notices/surahalmutaffifin.JPG"
+  },
+  {
+    "id": "shamail",
+    "type": "event",
+    "image": "https://raw.githubusercontent.com/MuadhIbnJabal/prayer-app-data/main/notices/shamail.JPG"
   }
 ]
