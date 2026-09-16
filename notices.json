@@ -20,5 +20,23 @@
     "type": "course",
     "category": "sisters",
     "image": "https://raw.githubusercontent.com/MuadhIbnJabal/prayer-app-data/main/notices/sistersquran.JPG"
+  },
+  {
+    "id": "nursery",
+    "type": "course",
+    "category": "children",
+    "image": "https://raw.githubusercontent.com/MuadhIbnJabal/prayer-app-data/main/notices/nursery.JPG"
+  },
+  {
+    "id": "teens-classes",
+    "type": "course",
+    "category": "children",
+    "image": "https://raw.githubusercontent.com/MuadhIbnJabal/prayer-app-data/main/notices/teensclasses.JPG"
+  },
+  {
+    "id": "seekers-of-faith",
+    "type": "course",
+    "category": "brothers",
+    "image": "https://raw.githubusercontent.com/MuadhIbnJabal/prayer-app-data/main/notices/seekersoffaith.JPG"
   }
 ]
