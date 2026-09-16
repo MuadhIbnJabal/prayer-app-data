@@ -8,5 +8,11 @@
     "id": "shamail",
     "type": "event",
     "image": "https://raw.githubusercontent.com/MuadhIbnJabal/prayer-app-data/main/notices/shamail.JPG"
-  }
+  },
+  {
+  "id": "sisters-studies",
+  "type": "course",
+  "category": "sisters",
+  "image": "https://raw.githubusercontent.com/MuadhIbnJabal/prayer-app-data/main/notices/sistersstudies.JPG"
+}
 ]
