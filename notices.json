@@ -24,13 +24,13 @@
   {
     "id": "nursery",
     "type": "course",
-    "category": "children",
+    "category": "youth",
     "image": "https://raw.githubusercontent.com/MuadhIbnJabal/prayer-app-data/main/notices/nursery.JPG"
   },
   {
     "id": "teens-classes",
     "type": "course",
-    "category": "children",
+    "category": "youth",
     "image": "https://raw.githubusercontent.com/MuadhIbnJabal/prayer-app-data/main/notices/teensclasses.JPG"
   },
   {
