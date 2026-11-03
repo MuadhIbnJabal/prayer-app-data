@@ -2,6 +2,11 @@
   {
     "id": "surah-al-mutaffifin",
     "type": "event",
+    "image": "https://raw.githubusercontent.com/MuadhIbnJabal/prayer-app-data/main/notices/surahburuj.JPEG"
+  },
+  {
+    "id": "surah-al-mutaffifin",
+    "type": "event",
     "image": "https://raw.githubusercontent.com/MuadhIbnJabal/prayer-app-data/main/notices/surahalmutaffifin.JPG"
   },
   {
