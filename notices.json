@@ -2,11 +2,13 @@
   {
     "id": "surah-al-mutaffifin",
     "type": "event",
+    "category": "regular",
     "image": "https://raw.githubusercontent.com/MuadhIbnJabal/prayer-app-data/main/notices/surahburuj.JPEG"
   },
   {
     "id": "shamail",
     "type": "event",
+    "category": "regular",
     "image": "https://raw.githubusercontent.com/MuadhIbnJabal/prayer-app-data/main/notices/shamail1.JPG"
   },
   {
