@@ -12,6 +12,12 @@
     "image": "https://raw.githubusercontent.com/MuadhIbnJabal/prayer-app-data/main/notices/shamail1.JPG"
   },
   {
+  "id": "abu-hurayrah",
+  "type": "event",
+  "category": "upcoming",
+  "image": "https://raw.githubusercontent.com/MuadhIbnJabal/prayer-app-data/main/notices/abuhurayrah.JPEG"
+  },
+  {
   "id": "sisters-studies",
   "type": "course",
   "category": "sisters",
