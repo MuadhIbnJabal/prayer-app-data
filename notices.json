@@ -12,12 +12,6 @@
     "image": "https://raw.githubusercontent.com/MuadhIbnJabal/prayer-app-data/main/notices/shamail1.JPG"
   },
   {
-  "id": "youth-club",
-  "type": "event",
-  "category": "upcoming",
-  "image": "https://raw.githubusercontent.com/MuadhIbnJabal/prayer-app-data/main/notices/youthclub.png"
-  },
-  {
   "id": "abu-hurayrah",
   "type": "event",
   "category": "upcoming",
